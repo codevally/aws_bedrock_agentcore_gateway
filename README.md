@@ -1,1 +1,1 @@
-# aws_bedrock_agentcore_weather_gateway
+# aws_bedrock_agentcore_gateway
