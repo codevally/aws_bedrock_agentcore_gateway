@@ -77,19 +77,18 @@ Agent
 
 ### Current Weather
 User
-> What tools do you have available?
+> What is the current weather in Melbourne?
 >
 Agent
-> I have two weather tools available:
+>Tool #1: weather-tools___get_current_weather
+>Here are the current weather conditions in **Melbourne**:
 >
-> 1. **Get Current Weather** - Retrieves the current weather conditions for a specified city. Just tell me the city name and I'll fetch the latest weather for you!
+>- 🌡️ **Temperature:** 14.5°C (feels like 13.7°C)
+>- 💧 **Humidity:** 73%
+>- 🌤️ **Conditions:** Mainly clear
+>- 💨 **Wind Speed:** 4.7 km/h
 >
-> 2. **Get Historical Weather** - Retrieves historical weather data for a specified city over a date range. For this, I'll need:
-     - The **city name**
-     - A **start date** (in YYYY-MM-DD format)
-     - An **end date** (in YYYY-MM-DD format)
->
-> Feel free to ask me about the weather anywhere in the world! 🌤️
+>It's a mild and mostly clear day in Melbourne. You might want a light jacket given the cool temperature!
 
 ### Historical Weather
 User
